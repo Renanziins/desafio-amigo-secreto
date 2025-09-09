@@ -8,7 +8,7 @@ Adicione os amigos, clique em **Sortear**, e veja quem foi o sorteado!
 
 ## 🖼️ Preview
 
-![Preview do Projeto](assets/preview.png)  
+![Preview do Projeto](file:///C:/Users/Lavinia.DESKTOP-DELL/Desktop/desafio%20amigo%20secreto.png)  
 *(captura de tela do funcionamento do projeto)*
 
 ---
